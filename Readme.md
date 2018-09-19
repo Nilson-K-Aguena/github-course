@@ -8,4 +8,6 @@ Aula 11 - Comando Diff para consultar as alterações executadas.
 
 Aula 16 - Envio de alterações para o Github
 
-Outros cursos em: [willian justen cursos](http://willianjusten.teachable.com)
+Outros cursos em: [willian justen cursos](http://willianjusten.teachable.com
+
+asjdhahkqwheqwkehqwk)
